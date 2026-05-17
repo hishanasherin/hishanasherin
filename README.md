@@ -52,13 +52,12 @@ Railway safety project using AI-based object detection technology.
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=hishanasherin&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hishanasherin&layout=compact&theme=tokyonight" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=hishanasherin&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hishanasherin&layout=compact&theme=tokyonight&cache_seconds=1800" />
+</p>
 ---
 
 ## 🌐 Connect With Me
