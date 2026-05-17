@@ -49,13 +49,6 @@ Railway safety project using AI-based object detection technology.
 
 ---
 
-## 📊 GitHub Stats
-
-## 📊 GitHub Stats
-
-![Hishana's GitHub stats](https://github-readme-stats.vercel.app/api?username=hishanasherin&show_icons=true)
----
-
 ## 🌐 Connect With Me
 
 <p>
