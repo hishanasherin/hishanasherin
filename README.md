@@ -1,4 +1,4 @@
-# Hi 👋, I'm Hishana Sherin K
+# Hi 👋 I'm Hishana Sherin K
 
 ### 🎓 Computer Science Graduate | AI & Machine Learning Enthusiast | Exploring Data Science & Generative AI
 
