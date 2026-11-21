@@ -1,31 +1,44 @@
 # Hi 👋, I'm Hishana Sherin K
 
-### 💻 Aspiring Developer | Python Enthusiast | Exploring Full Stack & AI
+### 🎓 Computer Science Graduate | AI & Machine Learning Enthusiast | Exploring Data Science & Generative AI
 
 ---
 
 ## 🚀 About Me
 
-🎓 Recently completed B.Tech in Computer Science Engineering 
-🌱 Currently learning Full Stack Web Development & Python
-💡 Exploring AI-powered applications and modern web technologies
-🔥 Passionate about building real-world projects and improving step by step
+🎓 B.Tech Graduate in Computer Science & Engineering  
+🤖 Interested in Artificial Intelligence, Machine Learning and Generative AI  
+📊 Exploring Data Science, Data Analysis and Explainable AI  
+🐍 Working with Python, SQL and Machine Learning libraries  
+🌱 Currently gaining practical experience through AI/ML projects  
 📍 Kerala, India
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,c,sql" />
 </p>
 
-### ⚡ Tools & Frameworks
+### 🤖 AI, Machine Learning & Data Science
+
+- Machine Learning
+- Pandas & NumPy
+- Scikit-learn
+- Data Preprocessing
+- Model Evaluation
+- Generative AI & LLMs
+- Prompt Engineering
+- Explainable AI (SHAP)
+- Data Annotation
+
+### ⚡ Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,django,flutter" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
 </p>
 
 ### 🗄️ Databases
@@ -38,31 +51,48 @@
 
 ## 🌟 Featured Projects
 
+### ❤️ Cardiovascular Disease Risk Prediction using Explainable AI
+
+An ongoing machine learning project using the NHANES dataset to predict cardiovascular disease risk.
+
+- Data preprocessing and feature engineering.
+- Random Forest classification.
+- SHAP-based model interpretation.
+
+**Technologies:** Python, Pandas, NumPy, Scikit-learn, SHAP.
+
 ### 🏥 Smart Epidemic Surveillance & Management System
 
-Healthcare monitoring system for disease outbreak prediction and emergency alerts.
+A healthcare monitoring system designed for disease outbreak prediction, hospital data sharing and emergency alerts.
 
+**Technologies:** Python, FastAPI, SQLite, Machine Learning.
 
-### 🚆 Railway Obstacle Detection using YOLO
+### 🚆 Railway Track Monitoring & Obstacle Detection
 
-Railway safety project using AI-based object detection technology.
+An AI-based railway safety project using computer vision and object detection to identify obstacles on railway tracks.
+
+**Technologies:** Python, OpenCV, YOLOv8, Deep Learning.
 
 ---
 
 ## 🌐 Connect With Me
 
 <p>
-  <a href="linkedin.com/in/hishanasherin">
+  <a href="https://www.linkedin.com/in/hishanasherin/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-
   <a href="mailto:hishanak533@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
+  <a href="https://github.com/hishanasherin">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
 </p>
+
+🌐 Portfolio: https://hishanasherin.github.io/
 
 ---
 
 ## ✨ Fun Fact
 
-I enjoy learning new technologies, building creative projects, and growing as a developer every day 🚀
+Always curious, always learning, and excited to explore the world of AI! 🚀
